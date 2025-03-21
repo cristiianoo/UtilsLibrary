@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package estga.lp.tp1.utilslibrary;
+package utils;
 
 import java.util.LinkedList;
 import java.util.Queue;
