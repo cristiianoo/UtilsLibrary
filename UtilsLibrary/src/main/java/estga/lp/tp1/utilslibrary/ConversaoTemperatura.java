@@ -4,10 +4,6 @@
  */
 package estga.lp.tp1.utilslibrary;
 
-/**
- *
- * @author crist
- */
 public class ConversaoTemperatura {
     public static double converterTemperatura(double valor, String unidadeOrigem, String unidadeDestino) {
         if (unidadeOrigem.equals("C")) {
