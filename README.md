@@ -33,7 +33,7 @@ A UtilsLibrary é uma biblioteca que oferece métodos para conversão entre dife
 - adicionarElemento(T elemento): Adiciona um elemento ao buffer
 - removerElemento(): Remove o elemento mais antigo
 - listarElementos(): Lista todos os elementos armazenados
-####LifoBuffer (Last In, Last Out)
+#### LifoBuffer (Last In, Last Out)
 - adicionarElemento(T elemento): Adiciona um elemento ao buffer
 - removerElemento(): Remove o elemento mais recente
 - listarElementos(): Lista todos os elementos armazenados
