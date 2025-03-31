@@ -15,9 +15,6 @@ A UtilsLibrary é uma biblioteca que oferece métodos para conversão entre dife
 #### Conversão de Peso
 - ConversaoPeso.converterPeso(double valor, String unidadeOrigem, String unidadeDestino)
 - Unidades: gramas (g), quilogramas (kg), libras (lb) e onças (oz)
-#### Conversão de Peso
-- ConversaoPeso.converterPeso(double valor, String unidadeOrigem, String unidadeDestino)
-- Unidades: gramas (g), quilogramas (kg), libras (lb) e onças (oz)
 #### Conversão de Tempo
 - ConversaoTempo.converterTempo(double valor, String unidadeOrigem, String unidadeDestino)
 - Unidades: segundos (s), minutos (min), horas (h) e dias (d)
